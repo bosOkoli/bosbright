@@ -1,6 +1,7 @@
 - Hi, I’m @bosbright
 -I am a Software Engineer
-- I’m currently learning python
+- I write  python django
+- I write dart flutter
 - I’m looking to collaborate on Data Science 
 - How to reach me brightokoli4life27@gmail.com
 
